@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-04T13:25:10 EET" name="Default suite" finished-at="2024-06-04T13:25:37 EET" duration-ms="26977">
+    <groups>
+    </groups>
+    <test started-at="2024-06-04T13:25:10 EET" name="Default test" finished-at="2024-06-04T13:25:37 EET" duration-ms="26977">
+      <class name="SearchHotelsTestCases">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:SearchHotelsTestCases@5b202a3a]" started-at="2024-06-04T13:25:10 EET" name="Setup" finished-at="2024-06-04T13:25:13 EET" duration-ms="3184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="navigateToHotels()[pri:1, instance:SearchHotelsTestCases@5b202a3a]" started-at="2024-06-04T13:25:13 EET" name="navigateToHotels" finished-at="2024-06-04T13:25:14 EET" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHotels -->
+        <test-method signature="fillSearchFields()[pri:2, instance:SearchHotelsTestCases@5b202a3a]" started-at="2024-06-04T13:25:14 EET" name="fillSearchFields" finished-at="2024-06-04T13:25:37 EET" duration-ms="23044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillSearchFields -->
+        <test-method signature="chooseRandomHotelTest()[pri:3, instance:SearchHotelsTestCases@5b202a3a]" started-at="2024-06-04T13:25:37 EET" name="chooseRandomHotelTest" finished-at="2024-06-04T13:25:37 EET" duration-ms="559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseRandomHotelTest -->
+      </class> <!-- SearchHotelsTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
